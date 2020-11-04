@@ -9,4 +9,7 @@ public class Main {
         System.out.println("s111111111111111111111");
         System.out.println("s111111111111111111111");
     }
+    public void show(){
+
+    }
 }
